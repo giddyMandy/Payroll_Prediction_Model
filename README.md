@@ -36,6 +36,7 @@ The key feature used for model building is years of experience.
 1. Evaluation Metric: The model's performance was evaluated using accuracy.
 
 2. Results:
+
 a. Coefficients: [9345.94244312]
 
 The coefficient indicates the change in the dependent variable (salary) for a one-unit increase in the independent variable (e.g., years of experience)
